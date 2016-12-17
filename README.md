@@ -2,7 +2,7 @@
 
 #### _An application to practice PHP tests, September 14, 2016_
 
-#### By _**Mark Lawson**_
+#### By _**Ayana Powell**_
 
 ## Description
 
@@ -36,7 +36,7 @@ There are no known bugs at this time.
 
 ## Support and Contact Details
 
-For questions or comments, please contact _mlawson3691@gmail.com_.
+For questions or comments, please contact _ayanapowell1@gmail.com_.
 
 ## Technologies Used
 
@@ -48,4 +48,4 @@ For questions or comments, please contact _mlawson3691@gmail.com_.
 ### License
 
 *This website is licensed under the MIT license.*  
-Copyright (c) 2016 **_Mark Lawson_**
+Copyright (c) 2016 **_Ayana Powell_**
